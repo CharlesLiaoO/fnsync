@@ -9,13 +9,11 @@
 4. 文件管理和文件传输功能；
 5. 分享手机文件到电脑；
 
-下载地址：https://gitee.com/holmium/fnsync/releases
+下载地址：https://??
 
 目前仅支持 Windows 10。
 
-此软件需结合 Android 端 APP 一起使用。Android 端 APP 的地址是：https://www.coolapk.com/apk/269031 或者 https://play.google.com/store/apps/details?id=holmium.fnsync
-
-用户交流QQ群：`246938957`、`762106423`
+此软件需结合 Android 端 APP 一起使用。Android 端 APP 的地址是：
 
 # 功能介绍
 
